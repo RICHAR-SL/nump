@@ -1,0 +1,2 @@
+# nump
+ejercicios de numpy
